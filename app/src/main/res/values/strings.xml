@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hospital</string>
+    <string-array name="blood_type" >
+        <item>O+</item>
+        <item>A</item>
+        <item>b</item>
+    </string-array>
+</resources>
